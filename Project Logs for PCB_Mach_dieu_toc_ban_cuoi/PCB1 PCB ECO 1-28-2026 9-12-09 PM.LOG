@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=D3-A
+Removed Pin From Net: NetName=NetC1_1 Pin=D3-C
+Change Component Footprint: Designator=D3 Old Footprint=DIOAD1036W78L470D235 New Footprint=D0.5A
+Change Component Comment : Designator=D3 Old Comment=1N5819RLG New Comment=1N5819
+Change component parameters: Designator = "D3" ("D3"); Footprint = "DIOAD1036W78L470D235"; UniqueID = "\GAOEMJBW" ("\GAOEMJBW")
+Change component parameters (AddParameter): Name = "Value"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=D3-1
+Added Pin To Net: NetName=NetC1_1 Pin=D3-2

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=JP1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=JP2-1
+Removed Pin From Net: NetName=NetC6_1 Pin=JP2-2
+Removed Member From Class: ClassName=Sheet_1 Member=JP1
+Removed Member From Class: ClassName=Sheet_1 Member=JP2
+Added Component: Designator=J1(CONN_39773-0002_MOL)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/397730002/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "397730002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/397730002/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(CONN_39773-0002_MOL)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/397730002/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "397730002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/397730002/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetC1_1 Pin=J2-1
+Added Pin To Net: NetName=NetC6_1 Pin=J2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=SW1-2
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=Sheet_1 Member=Component J1 397730002
+Added Member To Class: ClassName=Sheet_1 Member=Component J2 397730002
+Added Room: Name=Sheet_1

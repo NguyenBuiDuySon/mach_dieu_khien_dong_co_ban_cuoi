@@ -1,0 +1,5 @@
+Added Component: Designator=SW?(SW3-DIP)
+Add component (AddParameter): Name = "Value"; Value = "Switch 4x2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=SW?-1
+Added Pin To Net: NetName=NetJ1_1 Pin=SW?-2
+Added Member To Class: ClassName=Sheet_1 Member=Component SW? Switch 3x2

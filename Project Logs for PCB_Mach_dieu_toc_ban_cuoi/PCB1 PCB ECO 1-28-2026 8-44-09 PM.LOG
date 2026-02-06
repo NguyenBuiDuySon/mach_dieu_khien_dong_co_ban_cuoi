@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=Q1 Old Footprint=TO254P1016X419X2286-3 New Footprint=TO254P1041X444X2933-3
+Change Component Comment : Designator=Q1 Old Comment=IRFZ44N New Comment=IRF3205
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TO254P1016X419X2286-3"; UniqueID = "\DAAKHTVI" ("\DAAKHTVI")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRF3205/Infineon+Technologies/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "IRF3205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-220 Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF3205/Infineon+Technologies/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

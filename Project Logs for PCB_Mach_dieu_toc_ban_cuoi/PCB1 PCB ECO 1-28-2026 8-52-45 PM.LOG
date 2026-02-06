@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C5 Old Footprint=CAP1000uF50V New Footprint=CP1/2
+Change Component Comment : Designator=C6 Old Comment=470nF New Comment=100nF
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP1000uF50V"; UniqueID = "\QQWIMIAF" ("\QQWIMIAF")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
